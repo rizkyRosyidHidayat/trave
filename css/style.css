@@ -1,0 +1,9 @@
+html{
+	scroll-behavior: smooth;
+	font-family: 'roboto', sans-serif;
+}
+
+.title{
+	font-size: 9rem;
+	font-weight: bold;
+}
